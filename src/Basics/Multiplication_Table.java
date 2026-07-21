@@ -7,5 +7,12 @@ public class Multiplication_Table {
         for (int i=1; i<=10; i++){
             System.out.println(n + " * " + i + " = " + (n*i));
         }
+
+
+        int ans = 0;
+        for (int i =1; i<=10; i++){
+            ans = n * i;
+            System.out.println(n + " * " + i + " = " + ans);
+        }
     }
 }

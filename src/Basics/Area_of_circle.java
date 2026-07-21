@@ -7,6 +7,8 @@ public class Area_of_circle {
         double area = 3.14 * r * r;
 
         System.out.println("Area of Circle = " + area);
+
+       
     }
 
 }
