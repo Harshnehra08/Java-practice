@@ -11,6 +11,5 @@ public class Swap_of_two_no {
         b = temp;
 
         System.out.println("Number After Swap, a = " + a + "\nNumber After Swap, b = " + b);
-
     }
 }
