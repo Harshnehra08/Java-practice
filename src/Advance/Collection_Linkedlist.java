@@ -1,6 +1,6 @@
 package Advance;
 import java.util.LinkedList;
-public class Linkedlist {
+public class Collection_Linkedlist {
         public static void main(String[] args) {
 
             LinkedList<String> list = new LinkedList<>();
